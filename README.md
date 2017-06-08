@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/kiss/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/kiss/edit/master/README.md)
 
 [0353/dvd1](0353/dvd/1)
 
